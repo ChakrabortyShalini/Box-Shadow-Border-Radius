@@ -6,9 +6,6 @@ This project demonstrates a simple card component layout using HTML and CSS. Eac
 ---
 
 ## 📸 Preview
-
-
-
 🛠️ Customization
 
 Images: Replace src="https://picsum.photos/300/200" with your image URLs.
