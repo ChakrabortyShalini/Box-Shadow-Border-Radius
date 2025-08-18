@@ -23,7 +23,7 @@ Copy the HTML and CSS into a file (e.g., index.html).
 
 Open the file in your browser.
 
-Modify content as needed to create your cards.
+You can modify content as needed to create your cards.
 
 📌 Example Use Cases
 
