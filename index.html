@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Box Shadow & Border Radius</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .card {
+            width: 300px;
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        img {
+            width: 100%;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+  <img src="https://picsum.photos/300/200" alt="Random Scenic Image" />
+  <h2>Card Title</h2>
+  <p>This is a description of the card. It contains some text to explain the content.</p>
+</div>
+
+<div class="card">
+  <img src="https://picsum.photos/300/200?grayscale" alt="Random Grayscale Image" />
+  <h2>Another Card</h2>
+  <p>This is another card with a different title and description.</p>
+</div>
+    </body>
+</html>
