@@ -1,5 +1,4 @@
-Project Title: CSS Card Component
-Description
+
 This project showcases the use of fundamental CSS properties to create a responsive and visually appealing card component. The code utilises box-shadow for depth and border-radius for rounded corners, giving the cards a modern, soft aesthetic. The layout is managed using Flexbox to centre the cards on the page.
 
 Features
