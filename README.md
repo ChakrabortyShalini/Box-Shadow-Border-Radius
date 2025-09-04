@@ -1,33 +1,24 @@
-# Box-Shadow-Border-Radius
-This project demonstrates a simple card component layout using HTML and CSS. Each card contains an image, a title, and a description.  
+Project Title: CSS Card Component
+Description
+This project showcases the use of fundamental CSS properties to create a responsive and visually appealing card component. The code utilises box-shadow for depth and border-radius for rounded corners, giving the cards a modern, soft aesthetic. The layout is managed using Flexbox to centre the cards on the page.
 
-👉 The styling is included directly inside the HTML file using a `<style>` tag, so you don’t need a separate CSS file. This makes it easy to copy and run the example in a browser quickly.
+Features
+Responsive Design: The cards are designed to be mobile-friendly.
 
----
+box-shadow: Creates a subtle drop shadow to make the cards appear to lift off the page.
 
-## 📸 Preview
-🛠️ Customization
+border-radius: Applies rounded corners to the cards and their images for a softer look.
 
-Images: Replace src="https://picsum.photos/300/200" with your image URLs.
+Flexbox: Centres the card components both horizontally and vertically.
 
-Titles & Descriptions: Change the <h2> and <p> content for each card.
+How to Use
+Save the provided code as an index.html file.
 
-Layout: Wrap multiple cards inside a container <div> and adjust with CSS grid or flexbox if needed.
+Open the file in any modern web browser to view the result.
 
-🚀 How to Run
+Modify the CSS classes to experiment with different box-shadow values, border-radius, or colours to change the appearance of the cards.
 
-Copy the HTML and CSS into a file (e.g., index.html).
+Technologies Used
+HTML5: For the structure and content of the cards.
 
-Open the file in your browser.
-
-You can modify content as needed to create your cards.
-
-📌 Example Use Cases
-
-Product cards for an online store
-
-Team member profile cards
-
-Portfolio project previews
-
-📄 License
+CSS3: For styling the components and creating the visual effects.
